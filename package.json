@@ -1,0 +1,32 @@
+{
+  "name": "after-response",
+  "version": "1.0.0",
+  "description": "A middleware utility for Express.js to execute callbacks post-response, based on conditions like HTTP methods, status codes, and custom logic.",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "package.json",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanp30/after-response.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "response",
+    "http-status",
+    "http-method",
+    "post-response"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amanp30/after-response/issues"
+  },
+  "homepage": "https://github.com/amanp30/after-response#readme",
+  "author": "Aman Pareek <https://amanpareek.in>",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
