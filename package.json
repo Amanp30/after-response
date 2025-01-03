@@ -1,6 +1,6 @@
 {
   "name": "after-response",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A middleware utility for Express.js to execute callbacks post-response, based on conditions like HTTP methods, status codes, and custom logic.",
   "main": "lib/index.js",
   "files": [
